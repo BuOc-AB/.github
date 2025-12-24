@@ -86,7 +86,7 @@ Integrating AI agents into engineering workflows — accelerating delivery witho
 │   6+ Years in DevOps                                                        │
 │   ├── Pipeline & Platform Engineering → DevOps Strategy                     │
 │   ├── Regulated Industries: Insurance, Finance                              │
-│   └── Focus: Lead Time ↓  Stability ↑  Clear Ownership ✓                   │
+│   └── Focus: Lead Time ↓  Stability ↑  Clear Ownership ✓                    │
 │                                                                             │
 │   Team Leadership                                                           │
 │   ├── Built DevOps enablement teams from scratch                            │
@@ -94,7 +94,7 @@ Integrating AI agents into engineering workflows — accelerating delivery witho
 │   └── Transformed how teams build, test, and release                        │
 │                                                                             │
 │   Enterprise Agile                                                          │
-│   ├── SAFe Certified: Agilist, Practitioner, PO/PM                         │
+│   ├── SAFe Certified: Agilist, Practitioner, PO/PM                          │
 │   └── Experience in Agile Release Trains at scale                           │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
