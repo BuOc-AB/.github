@@ -5,7 +5,9 @@
 </picture>
 
 <p align="center">
-  <img src="https://devopswow.com/favicon.svg" alt="DevOpsWoW" width="200" />
+  <a href="https://devopswow.com/about">
+    <img src="https://devopswow.com/burhan-ocut.png" alt="Portrait photo of Burhan Öcüt, DevOps Architect" width="160" height="160" style="border-radius: 50%; object-fit: cover; box-shadow: 0 10px 25px rgba(0,0,0,0.3);"/>
+  </a>
 </p>
 
 <p align="center">
